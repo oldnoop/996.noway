@@ -1,10 +1,10 @@
-996.ICU
+996.NOWAY
 =======
-The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
+The name `996.NOWAY` refers to **'Work by "996", sick in NOWAY'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into NOWAY (Intensive Care Unit).
 
-<a href="https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ"><img src="https://img.shields.io/badge/slack-996ICU-%23de335e.svg"></a>
-<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg"></a>
-<a href="http://hits.dwyl.io/996icu/996.ICU"><img src="http://hits.dwyl.io/996icu/996.ICU.svg"></a>
+<a href="https://join.slack.com/t/996NOWAY/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ"><img src="https://img.shields.io/badge/slack-996NOWAY-%23de335e.svg"></a>
+<a href="https://github.com/996NOWAY/996.NOWAY/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg"></a>
+<a href="http://hits.dwyl.io/996NOWAY/996.NOWAY"><img src="http://hits.dwyl.io/996NOWAY/996.NOWAY.svg"></a>
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
@@ -19,7 +19,7 @@ You can update this [blacklist](blacklist/blacklist.md) with evidence to help ev
 
 Expand influence
 ---
-[Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+[Translations of 996.NOWAY's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 Community powers
 ---
@@ -28,7 +28,7 @@ Community powers
 
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
+ - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.NOWAY.
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
@@ -39,8 +39,8 @@ So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU License](LICENSE)  
-It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
+[996NOWAY License](LICENSE)  
+It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996NOWAY License**  
 It's source are from @Artoria2e5,
-See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+See [#15642](https://github.com/996NOWAY/996.NOWAY/pull/15642) for more details.  
 This license should be used with other licenses as a practice of multi-licensing.
